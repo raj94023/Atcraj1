@@ -1,1 +1,47 @@
-fvbnm
+DOCTYPE html>
+
+2
+
+<html lang="en">
+
+3
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"
+
+<meta name="viewport" content="width=device-width, i
+
+Elink rel="stylesheet" href="style.css>
+
+<title>Analog Clock</title>
+
+Indecheml X
+
+123456789101112
+
+
+</head>
+
+<body>
+
+
+<div class="container">
+
+<div class="clock">
+
+<span><b>1</b></span>
+
+<span><b>2</b></span>
+
+<span><b>3</b></span>
+
+<span><b>4</b></span>
+
+<span><b>5</b></span>
+
+<span><b>6</b></span>
+
+<span><b>7</b></span>
