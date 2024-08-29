@@ -1,3 +1,4 @@
+
 import hashlib
 
 def hashGenerator(data):
