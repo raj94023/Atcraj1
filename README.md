@@ -15,7 +15,7 @@ class block:
 hashLast=hashGenerator('gen_last')
 hashStart=hashGenerator('gen-hash')
 
-genesisBlock('gen-data', hashStart,hashLast)
+genesisBlock('gen-data'), hashStart,hashLast)
 self.chain[genesis]
 
 self.add.Block(self,data):
