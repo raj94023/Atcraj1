@@ -30,7 +30,7 @@ bc.add.block('2')
 bc.add.block('3')
 
 for block in bc.chain:
-print(block.__dict__)
+print(block.__dict__).
 
 
     
